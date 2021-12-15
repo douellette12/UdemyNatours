@@ -1,4 +1,4 @@
-# Natours Project
+# UdemyNatours Project
 
 ## Advanced CSS and Sass: Udemy
 
